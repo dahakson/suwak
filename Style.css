@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+.slider{
+    width: 100%!important;
+}
+
+.form-check-input{
+	margin-bottom: 8%;
+}
+
+.btn-outline-primary{
+	color:blue;
+	position: relative;
+	top: 0%!important;
+	right: 0%!important;
+	border: 0;
+	border-color: 0;
+}
